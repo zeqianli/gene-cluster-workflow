@@ -1,0 +1,10 @@
+# Paths
+
+output: "/home/zeqianli/project/zeqian/Mats/data/sag/viral_analysis/test"
+input: "/home/zeqianli/project/zeqian/Mats/data/sag/virsorter/UncmicMRedA02D15_3_FD/final-viral-combined.fa"
+#FILE_sample_list: "/home/zeqianli/Kuehn/Mats/workflows/hgt/config/samples_test.txt"
+
+# Parameters
+threads: 1
+mcl_inflation: 10
+input_type: 'fna'

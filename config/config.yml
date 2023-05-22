@@ -1,0 +1,10 @@
+# Paths
+
+output: "/home/zeqianli/project/zeqian/Mats/data/sag/viral_analysis/clusters_2"
+input: "/home/zeqianli/project/zeqian/Mats/data/sag/viral_analysis/viral_combined.fna"
+#FILE_sample_list: "/home/zeqianli/Kuehn/Mats/workflows/hgt/config/samples_test.txt"
+
+# Parameters
+threads: 24
+mcl_inflation: 2
+input_type: 'fna'
